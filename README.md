@@ -12,8 +12,8 @@ Power BI dashboard analyzing NYPD reported crime complaints across New York City
 
 ### Data Model
 
-* **`NYPD_Complaint_Data_Historic1`** — main fact table containing reported crime incidents, timestamps, locations, borough names, and offense descriptions.
-* **`Date Hierarchy`** — date table hierarchy used to break down incidents by year and month.
+* **`NYPD_Complaint_Data_Historic`** — main fact table containing reported crime incidents, timestamps, locations, borough names, and offense descriptions.
+* **`Crime Column Description`** — describe the NYPD_Complaint_Data_Historic table columns.
 
 ---
 
