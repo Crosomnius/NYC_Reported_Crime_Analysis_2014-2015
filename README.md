@@ -17,6 +17,20 @@ Power BI dashboard analyzing NYPD reported crime complaints across New York City
 
 ---
 
+### Business Question
+
+* **`What is the overall crime volume and resolution rate?`** (What are the total reported incidents, completion rate, and most frequent offense?)
+
+* **`How do crime trends shift over time?`** (Are reported crimes increasing or decreasing month-over-month when comparing 2014 vs. 2015?)
+
+* **`Which offense types occur most frequently?`** (What are the top 10 crime types driving the overall incident volume?)
+
+* **`Where do most crimes take place?`** (What is the distribution of incidents across different premises types, such as streets vs. residences?)
+
+* **`How does crime vary by location and severity?`** (How do crime patterns change when filtered by specific NYC boroughs, date ranges, or severity levels like Felony, Misdemeanor, and Violation?)
+
+---
+
 ### What's on the Dashboard
 
 **1. KPI Cards (Top):**
