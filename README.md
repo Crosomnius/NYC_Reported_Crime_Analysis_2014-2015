@@ -59,7 +59,7 @@ Power BI dashboard analyzing NYPD reported crime complaints across New York City
 
 ### How to Use
 
-1. Open `NYC 2014 2015 Reported Crime Analysis.pbix` in **Power BI Desktop**.
+1. Open `NYC 2014-2015 Reported Crime Analysis.pbix` in **Power BI Desktop**.
 2. Use the **Boroughs**, **Date Range**, or **Crime Category** slicers on the left sidebar to drill down into specific data segments.
 3. Hover over chart elements to view exact numbers and detailed tooltips.
 4. Click the **Bookmark / Reset Button** at the bottom left to restore all filters back to the default view.
